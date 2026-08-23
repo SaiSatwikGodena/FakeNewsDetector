@@ -11,7 +11,7 @@ Download the python dependencies:
 ```pip install -r requirements.txt```
 ### Step3
 In the db_config.py file
-> Change "your_mysql_password_here" to <your ACTUAL password>
+> Change "your_mysql_password_here" to **your ACTUAL password**
 
 ## Training your model
 Once you have your Dataset in the from of CSVs
