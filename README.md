@@ -21,8 +21,12 @@ run:
 ## Running the model
 simply run : 
 ```python fake_news_system.py```
+
 # Demo of how the run looks like!!
+
 <img width="1387" height="823" alt="image" src="https://github.com/user-attachments/assets/aaf33e1f-370b-4425-a381-bd39ed34fbfa" />
+
 # MatplotLib Graph basedon the training model
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7ee5469a-2746-44ff-ba2b-80cc2bdcfc9b" />
 
